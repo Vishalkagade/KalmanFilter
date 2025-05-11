@@ -2,6 +2,15 @@
 ## Overview
 This repository demonstrates a simple implementation of a Kalman Filter for state estimation in dynamic systems. The project serves as both an educational resource and a starting point for more advanced filtering applications.
 
+## Demonstration Video
+
+Below is a demonstration of the Kalman Filter tracking output. Click the video below or use your browser's video controls to play it.
+
+<video width="640" controls>
+    <source src="tracked_output.avi" type="video/avi">
+    Your browser does not support the video tag.
+</video>
+
 ## Bayes Theorem
 
 Bayes Theorem provides a way to update beliefs in light of new evidence. The formula is expressed as:
