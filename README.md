@@ -6,16 +6,7 @@ This repository demonstrates a simple implementation of a Kalman Filter for stat
 
 Below is a demonstration of the Kalman Filter tracking output. Click the video below or use your browser's video controls to play it.
 
-<video controls width="160">
-  <source src="tracked_output.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
-
-
 https://github.com/user-attachments/assets/4eaa35b3-e4b1-46c3-867d-7fb266979771
-
-
-
 
 ## Bayes Theorem
 
